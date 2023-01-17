@@ -8,7 +8,8 @@ h1{
 #name{
     color: rgb(233, 98, 19);
 }
-#section-id{
+.section-class
+{
     display: flex;
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
